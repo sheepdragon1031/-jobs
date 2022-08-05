@@ -6,7 +6,7 @@
    <div style="flex:4; text-align: right;">
         <div style="line-height: 3rem">
           <a href="mailto:dragonsheep1031@gmail.com">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" style="height:1.5rem; padding: 0 0.333rem;" >
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" style="height: 1rem; padding: 0 0.333rem;" alt="Gmail_icon" >
               <span style="color: #58a6ff">dragonsheep1031@gmail.com</span>
           </a>
       </div>
@@ -51,7 +51,7 @@
    <div style="flex:6; text-align: right;">
         <div style="line-height: 3rem">
           <a href="https://github.com/sheepdragon1031?tab=repositories">
-              <img src="https://avatars.githubusercontent.com/u/17337422?v=4" style="height:2rem; padding: 0 .333rem; border-radius: 100%" >
+              <img src="https://avatars.githubusercontent.com/u/17337422?v=4" style="height: 1rem; padding: 0 .333rem; border-radius: 100%" alt="githubuser_icon" />
               <span style="color: #58a6ff;vertical-align: text-bottom">https://github.com/sheepdragon1031</span>
           </a>
      	</div>
