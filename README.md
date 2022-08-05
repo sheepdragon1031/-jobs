@@ -6,7 +6,7 @@
    <div style="flex:4; text-align: right;">
         <div style="line-height: 3rem">
           <a href="mailto:dragonsheep1031@gmail.com">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" style="height:1.5rem; padding: 0 0.333rem;" >
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" style="height:1.5rem; padding: 0 0.333rem;" >
               <span style="color: #58a6ff">dragonsheep1031@gmail.com</span>
           </a>
       </div>
