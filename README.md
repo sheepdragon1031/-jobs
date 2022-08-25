@@ -6,7 +6,7 @@
    <div style="flex:4; text-align: right;">
         <div style="line-height: 3rem">
           <a href="mailto:dragonsheep1031@gmail.com">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" style="height: 1rem; padding: 0 0.333rem;" alt="Gmail_icon" >
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/180px-Gmail_icon_%282020%29.svg.png" style="height:1.5rem; padding: 0 0.333rem;" alt="Gmail_icon" >
               <span style="color: #58a6ff">dragonsheep1031@gmail.com</span>
           </a>
       </div>
@@ -22,10 +22,10 @@
 <div style="text-align:right; color: #627597">前端工程師 2022-03 - 現在</div>
 
 <ul style="color: #24292f">
-    <li>使用Nuxt 開發Web前端交易平台，日常活躍用戶約一百人</li>
-    <li>幫助轉移到Nuxt SSR模式上，為了在社群分享上支援Open Graph，也讓搜尋引擎能抓取建立內容提供搜尋簡介</li>
-     <li>延遲加載減少首次載入時間、減少10%重複元件以利於維護</li>
-    <li>改善原先登入系統、整合加入Oauth第三方登入</li>
+    <li>幫助網站原先SPA轉移到SSR模式上，為了在社群分享上支援Open Graph，讓網站在社群上顯示縮圖、標題、描述</li>
+    <li>改善首頁slick carousel效能問題，啟用套件lazyLoad，減少slick carousel渲染的次數，DOM節點數有效降低40%</li>
+    <li>減少首次載入時間調整Webpack壓縮，減少26%JS檔案大小的流量，減少6%未使用的位元組</li>
+    <li>已有前端身份驗證轉移到nuxt auth和加入Oauth第三方登入讓兩套系統兼容</li>
     <li>連接Restful API配合後端工程師規劃API架構，網頁錢包MetaMask互動智慧合約</li>
 </ul>
 
@@ -51,7 +51,7 @@
    <div style="flex:6; text-align: right;">
         <div style="line-height: 3rem">
           <a href="https://github.com/sheepdragon1031?tab=repositories">
-              <img src="https://avatars.githubusercontent.com/u/17337422?v=4" style="height: 1rem; padding: 0 .333rem; border-radius: 100%" alt="githubuser_icon" />
+              <img src="https://avatars.githubusercontent.com/u/17337422?v=4" style="height:2rem; padding: 0 .333rem; border-radius: 100%" alt="githubuser_icon" />
               <span style="color: #58a6ff;vertical-align: text-bottom">https://github.com/sheepdragon1031</span>
           </a>
      	</div>
